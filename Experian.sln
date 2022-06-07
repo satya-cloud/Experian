@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperianAPI", "ExperianAPI.csproj", "{027D2F7B-DCB8-41BC-BAAD-B30CBEABBC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperianUnitTests", "..\ExperianUnitTests\ExperianUnitTests.csproj", "{BDA764C5-DE77-4EAB-B071-C50A32ABDDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027D2F7B-DCB8-41BC-BAAD-B30CBEABBC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027D2F7B-DCB8-41BC-BAAD-B30CBEABBC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027D2F7B-DCB8-41BC-BAAD-B30CBEABBC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027D2F7B-DCB8-41BC-BAAD-B30CBEABBC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA764C5-DE77-4EAB-B071-C50A32ABDDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA764C5-DE77-4EAB-B071-C50A32ABDDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA764C5-DE77-4EAB-B071-C50A32ABDDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA764C5-DE77-4EAB-B071-C50A32ABDDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD01CC2-3D76-44C4-9BEC-FEFE8DA0F5E9}
+	EndGlobalSection
+EndGlobal
